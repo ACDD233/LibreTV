@@ -11,7 +11,7 @@ permissions:
   workflows: write
   issues: write
   pull-requests: write
-  models: read
+#  models: read
   actions: write
 
 jobs:
